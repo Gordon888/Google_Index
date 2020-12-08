@@ -89,7 +89,7 @@ body {
 /* --- Logo Section --- */
 
 body #logo {
-	height: 240px;
+	height: 480px;
 	width: 100%;
 	display: flex;
 	justify-content: center;
@@ -191,7 +191,6 @@ body #francais {
 footer {
 	position: absolute;
 	bottom: 0;
-	/* background-color: olive; */
 	height: 5.5%;
 	width: 100%;
 	display: flex;
@@ -212,7 +211,6 @@ footer #location {
 }
 
 footer p {
-	/* background-color: grey; */
 	color: rgb(112, 112, 112);
 }
 
